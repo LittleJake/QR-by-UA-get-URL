@@ -80,6 +80,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/unionpay" />
+
+        <RadioButton
+            android:id="@+id/qq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/qq" />
     </RadioGroup>
 
     <TextView
