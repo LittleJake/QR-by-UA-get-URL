@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR by UA get URL</string>
+    <string name="wechat">Wechat</string>
+    <string name="unionpay">UnionPay</string>
+    <string name="alipay">AliPay</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="save_qr">Save QR</string>
+    <string name="copy_url">Copy URL</string>
+</resources>
